@@ -1,0 +1,407 @@
+Algeria - ALG
+
+Angola - ANG
+
+Benin - BEN
+
+Botswana - BOT
+
+Burkina Faso - BUR
+
+Burundi - BDI
+
+Cameroon - CMR
+
+Cabo Verde - CPV
+
+Central African Republic - CAF
+
+Chad - CHA
+
+Comoros - COM
+
+Congo - CGO
+
+Democratic Republic of the Congo - COD
+
+Côte d’Ivoire - CIV
+
+Djibouti - DJI
+
+Egypt - EGY
+
+Eritrea - ERI
+
+Eswatini - SWZ
+
+Ethiopia - ETH
+
+Gabon - GAB
+
+Gambia - GAM
+
+Ghana - GHA
+
+Guinea - GUI
+
+Guinea-Bissau - GBS
+
+Equatorial Guinea - GEQ
+
+Kenya - KEN
+
+Lesotho - LES
+
+Liberia - LBR
+
+Libya - LBA
+
+Madagascar - MAD
+
+Malawi - MAW
+
+Mali - MLI
+
+Morocco - MAR
+
+Mauritius - MRI
+
+Mauritania - MTN
+
+Mozambique - MOZ
+
+Namibia - NAM
+
+Niger - NIG
+
+Nigeria - NGR
+
+Uganda - UGA
+
+Rwanda - RWA
+
+Sao Tome and Principe - STP
+
+Senegal - SEN
+
+Seychelles - SEY
+
+Sierra Leone - SLE
+
+Somalia - SOM
+
+South Africa - RSA
+
+South Sudan - SSD
+
+Sudan - SUD
+
+United Republic of Tanzania - TAN
+
+Togo - TOG
+
+Tunisia - TUN
+
+Zambia - ZAM
+
+Zimbabwe - ZIM
+
+Antigua and Barbuda - ANT
+
+Argentina - ARG
+
+Aruba - ARU
+
+Bahamas - BAH
+
+Barbados - BAR
+
+Belize - BIZ
+
+Bermuda - BER
+
+Bolivia - BOL
+
+Brazil - BRA
+
+Cayman Islands - CAY
+
+Canada - CAN
+
+Chile - CHI
+
+Colombia - COL
+
+Costa Rica - CRC
+
+Cuba - CUB
+
+Dominican Republic - DOM
+
+Dominica - DMA
+
+El Salvador - ESA
+
+Ecuador - ECU
+
+Grenada - GRN
+
+Guatemala - GUA
+
+Guyana - GUY
+
+Haiti - HAI
+
+Honduras - HON
+
+Jamaica - JAM
+
+Mexico - MEX
+
+Nicaragua - NCA
+
+Panama - PAN
+
+Paraguay - PAR
+
+Peru - PER
+
+Puerto Rico - PUR
+
+Saint Kitts and Nevis - SKN
+
+Saint Lucia - LCA
+
+St. Vincent and the Grenadines - VIN
+
+Suriname - SUR
+
+Trinidad and Tobago - TTO
+
+United States of America - USA
+
+Uruguay - URU
+
+Venezuela - VEN
+
+Virgin Islands, British - IVB
+
+Virgin Islands, US - ISV
+
+Afghanistan - AFG
+
+Bahrain - BRN
+
+Bangladesh - BAN
+
+Bhutan - BHU
+
+Brunei Darussalam - BRU
+
+Cambodia - CAM
+
+People’s Republic of China - CHN
+
+Republic of Korea - KOR
+
+Hong Kong, China - HKG
+
+India - IND
+
+Indonesia - INA
+
+Islamic Republic of Iran - IRI
+
+Iraq - IRQ
+
+Japan - JPN
+
+Jordan - JOR
+
+Kazakhstan - KAZ
+
+Kyrgyzstan - KGZ
+
+Kuwait - KUW
+
+Lao People’s Democratic Republic - LAO
+
+Lebanon - LBN
+
+Malaysia - MAS
+
+Maldives - MDV
+
+Mongolia - MGL
+
+Myanmar - MYA
+
+Nepal - NEP
+
+Oman - OMA
+
+Pakistan - PAK
+
+Palestine - PLE
+
+Philippines - PHI
+
+Qatar - QAT
+
+Democratic People’s Republic of Korea - PRK
+
+Saudi Arabia - KSA
+
+Singapore - SGP
+
+Sri Lanka - SRI
+
+Syrian Arab Republic - SYR
+
+Tajikistan - TJK
+
+Chinese Taipei - TPE
+
+Thailand - THA
+
+Democratic Rep. of Timor-Leste - TLS
+
+Turkmenistan - TKM
+
+United Arab Emirates - UAE
+
+Uzbekistan - UZB
+
+Vietnam - VIE
+
+Yemen - YEM
+
+Albania - ALB
+
+Andorra - AND
+
+Armenia - ARM
+
+Austria - AUT
+
+Azerbaijan - AZE
+
+Belgium - BEL
+
+Bosnia and Herzegovina - BIH
+
+Bulgaria - BUL
+
+Cyprus - CYP
+
+Croatia - CRO
+
+Czechia - CZE
+
+Denmark - DEN
+
+Spain - ESP
+
+Estonia - EST
+
+Finland - FIN
+
+France - FRA
+
+Georgia - GEO
+
+Germany - GER
+
+Great Britain - GBR
+
+Greece - GRE
+
+Hungary - HUN
+
+Ireland - IRL
+
+Iceland - ISL
+
+Israel - ISR
+
+Italy - ITA
+
+Kosovo - KOS
+
+Latvia - LAT
+
+Liechtenstein - LIE
+
+Lithuania - LTU
+
+Luxembourg - LIE
+
+North Macedonia - MKD
+
+Malta - MLT
+
+Republic of Moldova - MDA
+
+Monaco - MON
+
+Montenegro - MNE
+
+Netherlands - NED
+
+Norway - NOR
+
+Poland - POL
+
+Portugal - POR
+
+Romania - ROU
+
+San Marino - SMR
+
+Serbia - SRB
+
+Slovakia - SVK
+
+Slovenia - SLO
+
+Sweden - SWE
+
+Switzerland - SUI
+
+Türkiye - TUR
+
+Ukraine - UKR
+
+American Samoa - ASA
+
+Australia - AUS
+
+Cook Islands - COK
+
+Fiji - FIJ
+
+Guam - GUM
+
+Kiribati - KIR
+
+Marshall Islands - MHL
+
+Federated States of Micronesia - FSM
+
+Nauru - NRU
+
+New Zealand - NZL
+
+Palau - PLW
+
+Papua New Guinea - PNG
+
+Solomon Islands - SOL
+
+Samoa - SAM
+
+Tonga - TGA
+
+Tuvalu - TUV
+
+Vanuatu - VAN
